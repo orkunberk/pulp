@@ -1,2 +1,2 @@
 # pulp
-pulp training in turkish
+`PuLP` optimizasyon pakedi için türkçe eğitimi notebookları.
