@@ -1,2 +1,2 @@
-# pulp
-`PuLP` optimizasyon pakedi için türkçe eğitimi notebookları.
+# PuLP Eğitimi
+`PuLP` optimizasyon pakedi için türkçe eğitimi notebookları
